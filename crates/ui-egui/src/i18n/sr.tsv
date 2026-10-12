@@ -19,10 +19,10 @@
 	(no suggestions)	(нема предлога)
 	(picture or object)	(слика или објекат)
 	1.5 Line Spacing	Проређеност 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Бесплатан, отворени обрађивач текста написан од нуле у Rust-у.\nДео Crafting Apps пакета тима ArtCraft.
+	A free, open-source word processor written from scratch in Rust.\nUnigreen Docs, based on WordCraft by the ArtCraft team and community.	Бесплатан, отворени обрађивач текста написан од нуле у Rust-у.\nUnigreen Docs, заснован на WordCraft-у тима и заједнице ArtCraft.
 	A password is required to open this document.	За отварање овог документа потребна је лозинка.
 	About	О програму
-	About WordCraft	О WordCraft-у
+	About Unigreen Docs	О Unigreen Docs-у
 	Accept	Прихвати
 	Accept All Changes	Прихвати све измене
 	Accept This Change	Прихвати ову измену
@@ -83,7 +83,7 @@
 	Automatic Table 1 (3 levels)	Аутоматска табела 1 (3 нивоа)
 	Automatic Table 2 (2 levels)	Аутоматска табела 2 (2 нивоа)
 	AutoSave	Аутоматско чување
-	AutoSave documents you have saved in WordCraft	Аутоматски чувај документе које сте већ сачували у WordCraft-у
+	AutoSave documents you have saved in Unigreen Docs	Аутоматски чувај документе које сте већ сачували у Unigreen Docs-у
 	AutoSave failed: {error}. Save the document to turn AutoSave back on.	Аутоматско чување неуспело: {error}. Сачувајте документ да бисте га поново укључили.
 	Balloons	Облачићи
 	Bottom Margin	Доња маргина
@@ -175,7 +175,7 @@
 	Glow Colors	Боје сјаја
 	Hide from style lists	Сакриј са листа стилова
 	Indents and Spacing	Увлачења и размаци
-	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Чувајте лозинку на сигурном месту: без ње нико, па ни WordCraft, не може да отвори документ. Оставите оба поља празна да бисте уклонили лозинку.
+	Keep the password somewhere safe: without it nobody, Unigreen Docs included, can open the document. Leave both boxes empty to remove the password.	Чувајте лозинку на сигурном месту: без ње нико, па ни Unigreen Docs, не може да отвори документ. Оставите оба поља празна да бисте уклонили лозинку.
 	Line breaking	Прелом редова
 	Linked style (paragraph and character)	Повезани стил (пасус и знакови)
 	Manage Styles	Управљање стиловима
@@ -590,7 +590,7 @@
 	Merge Formatting	Споји форматирање
 	Merged PRs	Спојени PR-ови
 	Mirrored	Зрцаљено
-	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0. Ауторска права (c) 2026 ArtCraft Team и сарадници на WordCraft-у.
+	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors. Modifications (c) 2026 Unigreen Power Co., Ltd.	MIT OR Apache-2.0. Ауторска права (c) 2026 ArtCraft Team и сарадници на WordCraft-у. Modifications (c) 2026 Unigreen Power Co., Ltd.
 	Moderate	Умерено
 	Modify Style	Измени стил
 	Modify…	Измени…
@@ -996,7 +996,7 @@
 	Word Left	Реч лево
 	Word Right	Реч десно
 	WordArt	WordArt
-	WordCraft	WordCraft
+	Unigreen Docs	Unigreen Docs
 	Words	Речи
 	Words only	Само речи
 	Wrap Text	Преломи текст

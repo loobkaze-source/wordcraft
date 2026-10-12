@@ -4,9 +4,9 @@
 	(no style)	（無樣式）
 	(no suggestions)	（無建議）
 	1.5 Line Spacing	1.5 倍行距
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	一款以 Rust 從零開始撰寫的免費開源文書處理軟體。\n屬於 ArtCraft 團隊的 Crafting Apps 系列。
+	A free, open-source word processor written from scratch in Rust.\nUnigreen Docs, based on WordCraft by the ArtCraft team and community.	一款以 Rust 從零開始撰寫的免費開源文書處理軟體。\nUnigreen Docs，以 ArtCraft 團隊與社群的 WordCraft 為基礎。
 	About	關於
-	About WordCraft	關於 WordCraft
+	About Unigreen Docs	關於 Unigreen Docs
 	Accept	接受
 	Accept All Changes	接受所有修訂
 	Accept This Change	接受此修訂
@@ -63,7 +63,7 @@
 	Automatic Table 1 (3 levels)	自動目錄 1（3 階層）
 	Automatic Table 2 (2 levels)	自動目錄 2（2 階層）
 	AutoSave	自動儲存
-	AutoSave documents you have saved in WordCraft	自動儲存在 WordCraft 中儲存過的文件
+	AutoSave documents you have saved in Unigreen Docs	自動儲存在 Unigreen Docs 中儲存過的文件
 	AutoSave failed: {error}. Save the document to turn AutoSave back on.	自動儲存失敗：{error}。重新儲存文件後將恢復自動儲存。
 	Balloons	註解方塊
 	Bottom Margin	下邊界
@@ -539,7 +539,7 @@
 	Merge Formatting	合併格式設定
 	Merged PRs	已合併的 PR
 	Mirrored	左右對稱
-	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0。著作權所有 (c) 2026 ArtCraft 團隊及 WordCraft 貢獻者。
+	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors. Modifications (c) 2026 Unigreen Power Co., Ltd.	MIT OR Apache-2.0。著作權所有 (c) 2026 ArtCraft 團隊及 WordCraft 貢獻者。Modifications (c) 2026 Unigreen Power Co., Ltd.
 	Moderate	中等
 	Modify Style	修改樣式
 	Modify…	修改…
@@ -933,7 +933,7 @@
 	Word Left	左移一個單字
 	Word Right	右移一個單字
 	WordArt	文字藝術師
-	WordCraft	WordCraft
+	Unigreen Docs	Unigreen Docs
 	Words	字數
 	Words only	僅文字
 	Wrap Text	文繞圖
@@ -1318,7 +1318,7 @@
 	The document will be saved with a password. Save it to protect it.	文件將以密碼儲存。儲存文件以保護它。
 	The password is removed. Save the document to keep the change.	密碼已移除。儲存文件以保留此變更。
 	The passwords don't match.	兩次輸入的密碼不一致。
-	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	請妥善保管密碼：沒有密碼，任何人（包括 WordCraft）都無法開啟文件。兩個方塊都留空可移除密碼。
+	Keep the password somewhere safe: without it nobody, Unigreen Docs included, can open the document. Leave both boxes empty to remove the password.	請妥善保管密碼：沒有密碼，任何人（包括 Unigreen Docs）都無法開啟文件。兩個方塊都留空可移除密碼。
 
 # Interface text routed through translation (#313)
 	Align Top Left	靠上靠左對齊

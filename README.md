@@ -1,11 +1,20 @@
 <p align="center">
-  <a href="https://getartcraft.com/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
-      <img alt="ArtCraft" src="docs/brand/artcraft-logo.svg" width="200">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/unigreen-logo-white.svg">
+    <img alt="Unigreen" src="assets/brand/unigreen-logo.svg" width="200">
+  </picture>
 </p>
+
+# Unigreen Docs
+
+Unigreen Docs is Unigreen Power's distribution of [WordCraft](https://github.com/storytold/wordcraft),
+an open-source, clean-room reimplementation of Microsoft Word for writing and document design, rebuilt in pure Rust.
+Based on WordCraft by the ArtCraft team.
+
+> **Upstream:** the rest of this README is upstream WordCraft's, kept as it is apart from the removed
+> ArtCraft logo images. Unigreen Docs is not an ArtCraft product; see [NOTICE](NOTICE) for what was modified.
+
+---
 
 <h1 align="center">WordCraft</h1>
 
@@ -332,6 +341,5 @@ Forks and modified versions must remove them.
 <sub>Microsoft and Microsoft Word are trademarks of the Microsoft group of companies. Adobe, Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat, After Effects and InDesign are trademarks or registered trademarks of Adobe Inc. in the United States and/or other countries. WordCraft is an independent, open-source project and is not affiliated with, sponsored by or endorsed by Microsoft Corporation or Adobe Inc.; these names are used only to describe the workflows it is compatible with.</sub>
 
 <p align="center">
-  <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
   <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
 </p>

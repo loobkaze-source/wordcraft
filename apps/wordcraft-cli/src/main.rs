@@ -9,7 +9,7 @@ use serde_json::{Value, json};
 use wordcraft_engine::Session;
 
 const USAGE: &str = "\
-wordcraft-cli — WordCraft from the command line
+wordcraft-cli — Unigreen Docs from the command line
 
 USAGE:
   wordcraft-cli convert <in> <out>            convert between formats (docx, doc [read], pdf, odt, rtf, html, md, tex, txt, json, png)
@@ -268,7 +268,7 @@ fn run(args: &[String]) -> Result<(), Failure> {
                     return Err("mcp: --author applies to the headless server; with --connect, run file.setAuthor".into());
                 }
                 Some(addr) => {
-                    let remote = wordcraft_mcp::Remote::connect(&addr).map_err(|e| format!("can't reach the WordCraft app at {addr}: {e}"))?;
+                    let remote = wordcraft_mcp::Remote::connect(&addr).map_err(|e| format!("can't reach the Unigreen Docs app at {addr}: {e}"))?;
                     if let Some(w) = remote.key_warning() {
                         eprintln!("wordcraft-cli: {w}");
                     }

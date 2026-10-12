@@ -16,9 +16,9 @@
 	(no style)	(sin estilo)
 	(no suggestions)	(sin sugerencias)
 	1.5 Line Spacing	Interlineado 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Un procesador de textos gratuito y de código abierto, escrito desde cero en Rust.\nForma parte de las Crafting Apps del equipo de ArtCraft.
+	A free, open-source word processor written from scratch in Rust.\nUnigreen Docs, based on WordCraft by the ArtCraft team and community.	Un procesador de textos gratuito y de código abierto, escrito desde cero en Rust.\nUnigreen Docs, basado en WordCraft del equipo y la comunidad de ArtCraft.
 	About	Acerca de
-	About WordCraft	Acerca de WordCraft
+	About Unigreen Docs	Acerca de Unigreen Docs
 	Accept	Aceptar
 	Accept All Changes	Aceptar todos los cambios
 	Accept This Change	Aceptar este cambio
@@ -525,7 +525,7 @@
 	Link to Previous	Vincular con el anterior
 	Links	Vínculos
 	Location: {path}	Ubicación: {path}
-	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT o Apache-2.0. Copyright (c) 2026 ArtCraft Team y los colaboradores de WordCraft.
+	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors. Modifications (c) 2026 Unigreen Power Co., Ltd.	MIT o Apache-2.0. Copyright (c) 2026 ArtCraft Team y los colaboradores de WordCraft. Modifications (c) 2026 Unigreen Power Co., Ltd.
 	Macros	Macros
 	Mailings	Correspondencia
 	Manage Sources	Administrar fuentes
@@ -956,7 +956,7 @@
 	Word Right	Palabra a la derecha
 	Word document (*.docx)	Documento de Word (*.docx)
 	WordArt	WordArt
-	WordCraft	WordCraft
+	Unigreen Docs	Unigreen Docs
 	Words	Palabras
 	Words only	Solo palabras
 	Wrap Text	Ajustar texto
@@ -1025,7 +1025,7 @@
 	Stopped	Detenido
 	Speed	Velocidad
 	Normal speed	Velocidad normal
-	AutoSave documents you have saved in WordCraft	Autoguardar los documentos que hayas guardado en WordCraft
+	AutoSave documents you have saved in Unigreen Docs	Autoguardar los documentos que hayas guardado en Unigreen Docs
 	AutoSave failed: {error}. Save the document to turn AutoSave back on.	Error de autoguardado: {error}. Guarda el documento para volver a activar el autoguardado.
 	Couldn't download {name}: {error}	No se pudo descargar {name}: {error}
 	Do you want to save changes to {name}?	¿Quieres guardar los cambios en {name}?
@@ -1333,7 +1333,7 @@
 	The document will be saved with a password. Save it to protect it.	El documento se guardará con contraseña. Guárdalo para protegerlo.
 	The password is removed. Save the document to keep the change.	Se quitó la contraseña. Guarda el documento para conservar el cambio.
 	The passwords don't match.	Las contraseñas no coinciden.
-	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Guarda la contraseña en un lugar seguro: sin ella nadie, ni siquiera WordCraft, puede abrir el documento. Deja ambos cuadros vacíos para quitar la contraseña.
+	Keep the password somewhere safe: without it nobody, Unigreen Docs included, can open the document. Leave both boxes empty to remove the password.	Guarda la contraseña en un lugar seguro: sin ella nadie, ni siquiera Unigreen Docs, puede abrir el documento. Deja ambos cuadros vacíos para quitar la contraseña.
 
 # Interface text routed through translation (#313)
 	Align Top Left	Alinear arriba a la izquierda

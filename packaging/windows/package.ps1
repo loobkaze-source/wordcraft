@@ -108,8 +108,8 @@ function ConvertTo-RtfText([string] $Text) {
   return $sb.ToString()
 }
 $paragraphs = [System.Collections.Generic.List[string]]::new()
-$paragraphs.Add('\b WordCraft\b0')
-$paragraphs.Add((ConvertTo-RtfText 'WordCraft is dual-licensed under the MIT License or the Apache License, Version 2.0, at your option. Both license texts follow. Bundled fonts and other third-party material keep their own open licenses, listed in NOTICE and ATTRIBUTION.md at https://github.com/storytold/wordcraft.'))
+$paragraphs.Add('\b Unigreen Docs\b0')
+$paragraphs.Add((ConvertTo-RtfText 'Unigreen Docs, a modified version of WordCraft distributed by Unigreen Power Co., Ltd., is dual-licensed under the MIT License or the Apache License, Version 2.0, at your option. Both license texts follow. The Unigreen name and logo are trademarks of Unigreen Power Co., Ltd. and are not licensed under MIT or Apache-2.0. Bundled fonts and other third-party material keep their own open licenses, listed in NOTICE and ATTRIBUTION.md at https://github.com/storytold/wordcraft.'))
 foreach ($file in 'LICENSE-MIT', 'LICENSE-APACHE') {
   $title = $true  # each file opens with its license's name: show it bold
   foreach ($para in ((Get-Content -Raw (Join-Path $Root $file)) -split '\r?\n\s*\r?\n')) {
