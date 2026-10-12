@@ -133,9 +133,9 @@ impl Server {
                 Ok(json!({
                     "protocolVersion": version,
                     "capabilities": {"tools": {}, "resources": {}},
-                    "serverInfo": {"name": "wordcraft", "title": "Unigreen Docs", "version": env!("CARGO_PKG_VERSION"), "websiteUrl": "https://getartcraft.com/apps/wordcraft"},
+                    "serverInfo": {"name": "wordcraft", "title": "Unigreen Docs", "version": env!("CARGO_PKG_VERSION"), "websiteUrl": "https://unigreenpower.co.th"},
                     "instructions": format!(
-                        "{INSTRUCTIONS} Backend: {}. Community: https://discord.gg/artcraft · https://getartcraft.com/apps/wordcraft · https://github.com/storytold/wordcraft",
+                        "{INSTRUCTIONS} Backend: {}. Contact Unigreen on LINE: https://line.me/R/ti/p/@unigreen.power · Website: https://unigreenpower.co.th · Source and issues: https://github.com/loobkaze-source/wordcraft",
                         self.backend.describe()
                     ),
                 }))

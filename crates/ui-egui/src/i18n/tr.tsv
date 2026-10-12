@@ -146,7 +146,7 @@
 	Comment	Yorum
 	Comments	Yorumlar
 	Comments Pane	Yorumlar Bölmesi
-	Community\nDiscord	Topluluk\nDiscord'u
+	Contact\non LINE	LINE'dan\nİletişim
 	Compact	Kompakt
 	Compare	Karşılaştır
 	Compress Pictures	Resimleri Sıkıştır
@@ -198,8 +198,8 @@
 	Different First Page	İlk Sayfa Farklı
 	Different Odd & Even Pages	Tek ve Çift Sayfalar Farklı
 	Direct formatting	Doğrudan biçimlendirme
-	Discord	Discord
-	Discord community	Discord topluluğu
+	LINE	LINE
+	Contact Unigreen on LINE	LINE'dan Unigreen ile iletişim
 	Display	Görüntü
 	Display for Review	İnceleme Görünümü
 	Distribute Columns	Sütunları Eşit Dağıt
@@ -359,8 +359,8 @@
 	Inspect Styles at Selection	Seçimdeki Stilleri İncele
 	Interface language:	Arayüz dili:
 	Italic	İtalik
-	Join the ArtCraft community on Discord	Discord'da ArtCraft topluluğuna katılın
-	Join us on Discord: discord.gg/artcraft	Discord'da bize katılın: discord.gg/artcraft
+	Contact Unigreen on LINE (@unigreen.power)	LINE üzerinden Unigreen ile iletişime geçin (@unigreen.power)
+	Contact Unigreen on LINE: @unigreen.power	LINE'dan Unigreen ile iletişime geçin: @unigreen.power
 	Justify	İki Yana Yasla
 	Keep Lines Together	Satırları Birlikte Tut
 	Keep Text Only	Yalnızca Metni Koru
@@ -662,7 +662,7 @@
 	Show Notes	Notları Göster
 	Show all formatting marks	Tüm biçimlendirme işaretlerini göster
 	Show rulers	Cetvelleri göster
-	Show the community button in the title bar	Başlık çubuğunda topluluk düğmesini göster
+	Show the LINE contact button in the title bar	Başlık çubuğunda LINE iletişim düğmesini göster
 	Show/Hide ¶	Göster/Gizle ¶
 	Show\nComments	Yorumları\nGöster
 	Shrink Font 1 Point	Yazı Tipini 1 Punto Küçült
@@ -677,7 +677,7 @@
 	Small caps	Küçük büyük harf
 	SmartArt	SmartArt
 	Sort	Sırala
-	Source code: github.com/storytold/wordcraft	Kaynak kod: github.com/storytold/wordcraft
+	Source code: github.com/loobkaze-source/wordcraft	Kaynak kod: github.com/loobkaze-source/wordcraft
 	Space before/after:	Önce/sonra boşluk:
 	Spacing	Aralık
 	Spacing (pt):	Aralık (pt):
@@ -1023,7 +1023,7 @@
 	Insert a new equation (Alt+=)	Yeni denklem ekle (Alt+=)
 	Leave the equation (Esc)	Denklemden çık (Esc)
 	Preview	Önizleme
-	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
+	Unigreen Docs website: unigreenpower.co.th	Unigreen Docs web sitesi: unigreenpower.co.th
 	(no style)	(stil yok)
 	Add Object to Selection	Nesneyi Seçime Ekle
 	Add space between Asian and Latin text	Asya ve Latin metni arasına boşluk ekle

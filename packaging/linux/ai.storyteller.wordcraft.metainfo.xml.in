@@ -18,10 +18,10 @@
   <launchable type="desktop-id">ai.storyteller.wordcraft.desktop</launchable>
   <icon type="stock">ai.storyteller.wordcraft</icon>
   <!-- Only url types known to appstream 0.15 (Ubuntu 22.04, where CI validates): no vcs-browser. -->
-  <url type="homepage">https://getartcraft.com/apps/wordcraft</url>
-  <url type="bugtracker">https://github.com/storytold/wordcraft/issues</url>
-  <url type="help">https://github.com/storytold/wordcraft</url>
-  <url type="contact">https://discord.gg/artcraft</url>
+  <url type="homepage">https://unigreenpower.co.th</url>
+  <url type="bugtracker">https://github.com/loobkaze-source/wordcraft/issues</url>
+  <url type="help">https://line.me/R/ti/p/@unigreen.power</url>
+  <url type="contact">https://line.me/R/ti/p/@unigreen.power</url>
   <categories>
     <category>Office</category>
     <category>WordProcessor</category>
@@ -35,7 +35,7 @@
   <screenshots>
     <screenshot type="default">
       <caption>The Open Studio Handbook sample with the Navigation pane</caption>
-      <image>https://raw.githubusercontent.com/storytold/wordcraft/main/docs/images/hero.png</image>
+      <image>https://raw.githubusercontent.com/loobkaze-source/wordcraft/main/docs/images/hero.png</image>
     </screenshot>
   </screenshots>
   <branding>

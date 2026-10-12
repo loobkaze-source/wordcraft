@@ -797,7 +797,7 @@ impl WordApp {
             // here, like `ui.openFileDialog` — only when the host can print.
             "ui.print" => return Some(self.print_to_system()),
             "ui.discord" => {
-                self.canvas.open_url = Some("https://discord.gg/artcraft".into());
+                self.canvas.open_url = Some("https://line.me/R/ti/p/@unigreen.power".into());
                 json!({})
             }
             // Shape Format › Text › Create Link: the next click on an empty text box links the

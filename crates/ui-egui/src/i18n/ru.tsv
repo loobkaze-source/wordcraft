@@ -143,7 +143,7 @@
 	Comment	Комментарий
 	Comments	Комментарии
 	Comments Pane	Область комментариев
-	Community\nDiscord	Сообщество\nDiscord
+	Contact\non LINE	Связаться\nв LINE
 	Compact	Компактный
 	Compare	Сравнить
 	Compress Pictures	Сжать рисунки
@@ -195,8 +195,8 @@
 	Dictate	Диктовка
 	Different First Page	Особая первая страница
 	Different Odd & Even Pages	Разные для чётных и нечётных страниц
-	Discord	Discord
-	Discord community	Сообщество в Discord
+	LINE	LINE
+	Contact Unigreen on LINE	Написать Unigreen в LINE
 	Display	Отображение
 	Display for Review	Отображение исправлений
 	Distribute Columns	Выровнять ширину столбцов
@@ -365,8 +365,8 @@
 	Intense Reference	Сильная ссылка
 	Interface language:	Язык интерфейса:
 	Italic	Курсив
-	Join the ArtCraft community on Discord	Присоединяйтесь к сообществу ArtCraft в Discord
-	Join us on Discord: discord.gg/artcraft	Присоединяйтесь к нам в Discord: discord.gg/artcraft
+	Contact Unigreen on LINE (@unigreen.power)	Написать Unigreen в LINE (@unigreen.power)
+	Contact Unigreen on LINE: @unigreen.power	Написать Unigreen в LINE: @unigreen.power
 	Justify	По ширине
 	Keep Lines Together	Не разрывать абзац
 	Keep lines together	Не разрывать абзац
@@ -659,7 +659,7 @@
 	Show Markup	Показать исправления
 	Show Notes	Показать сноски
 	Show rulers	Показывать линейки
-	Show the community button in the title bar	Показывать кнопку сообщества в заголовке окна
+	Show the LINE contact button in the title bar	Показывать кнопку связи в LINE в заголовке окна
 	Show/Hide ¶	Показать/скрыть ¶
 	Show\nComments	Показать\nкомментарии
 	Shrink Font 1 Point	Уменьшить шрифт на 1 пт
@@ -674,7 +674,7 @@
 	Small caps	Малые прописные
 	SmartArt	SmartArt
 	Sort	Сортировка
-	Source code: github.com/storytold/wordcraft	Исходный код: github.com/storytold/wordcraft
+	Source code: github.com/loobkaze-source/wordcraft	Исходный код: github.com/loobkaze-source/wordcraft
 	Space before/after:	Интервал перед/после:
 	Spacing	Интервал
 	Spacing (pt):	Интервал (пт):
@@ -1079,7 +1079,7 @@ preview	Title	Пример
 	Insert a new equation (Alt+=)	Вставить новое уравнение (Alt+=)
 	Leave the equation (Esc)	Выйти из уравнения (Esc)
 	Preview	Предварительный просмотр
-	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
+	Unigreen Docs website: unigreenpower.co.th	Сайт Unigreen Docs: unigreenpower.co.th
 	Browse…	Обзор…
 
 # Equation gallery, themes, watermarks, paper sizes, table styles and other strings the

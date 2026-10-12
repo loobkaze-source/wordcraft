@@ -157,7 +157,7 @@ pub fn title_bar(app: &mut WordApp, ui: &mut Ui) {
                 quick_access(ui, app);
                 qat_end = ui.min_rect().max.x;
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::Center), |ui| {
-                    // Account / community.
+                    // Account / contact (LINE).
                     let (r, resp) = ui.allocate_exact_size(vec2(control_h, control_h), Sense::click());
                     ui.painter().circle_filled(r.center(), control_h / 2.0 - 1.0, t.accent);
                     let initials: String = app.session.user_initials().chars().take(2).collect();
@@ -169,23 +169,17 @@ pub fn title_bar(app: &mut WordApp, ui: &mut Ui) {
                         ui.painter().rect_filled(
                             r,
                             11.0,
-                            if resp.hovered() { egui::Color32::from_rgb(0x47, 0x52, 0xC4) } else { egui::Color32::from_rgb(0x58, 0x65, 0xF2) },
+                            if resp.hovered() { egui::Color32::from_rgb(12, 122, 85) } else { egui::Color32::from_rgb(16, 150, 105) },
                         );
                         icons::paint(
                             ui.painter(),
                             Rect::from_center_size(pos2(r.min.x + 13.0, r.center().y), vec2(14.0, 14.0)),
-                            "discord",
+                            "comment",
                             egui::Color32::WHITE,
                             egui::Color32::WHITE,
                         );
-                        ui.painter().text(
-                            pos2(r.min.x + 24.0, r.center().y),
-                            Align2::LEFT_CENTER,
-                            tl!("Discord"),
-                            medium(11.5),
-                            egui::Color32::WHITE,
-                        );
-                        if resp.on_hover_text(tl!("Join the ArtCraft community on Discord")).clicked() {
+                        ui.painter().text(pos2(r.min.x + 24.0, r.center().y), Align2::LEFT_CENTER, tl!("LINE"), medium(11.5), egui::Color32::WHITE);
+                        if resp.on_hover_text(tl!("Contact Unigreen on LINE (@unigreen.power)")).clicked() {
                             let _ = app.run("ui.discord", json!({}));
                         }
                         ui.add_space(8.0);

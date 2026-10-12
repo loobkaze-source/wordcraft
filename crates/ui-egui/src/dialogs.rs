@@ -2064,9 +2064,9 @@ fn body(app: &mut WordApp, ui: &mut Ui, d: &mut Dialog) -> bool {
                         "A free, open-source word processor written from scratch in Rust.\nUnigreen Docs, based on WordCraft by the ArtCraft team and community."
                     ));
                     ui.add_space(6.0);
-                    ui.hyperlink_to(tl!("getartcraft.com/apps/wordcraft"), "https://getartcraft.com/apps/wordcraft");
-                    ui.hyperlink_to(tl!("Join us on Discord: discord.gg/artcraft"), "https://discord.gg/artcraft");
-                    ui.hyperlink_to(tl!("Source code: github.com/storytold/wordcraft"), "https://github.com/storytold/wordcraft");
+                    ui.hyperlink_to(tl!("Unigreen Docs website: unigreenpower.co.th"), "https://unigreenpower.co.th");
+                    ui.hyperlink_to(tl!("Contact Unigreen on LINE: @unigreen.power"), "https://line.me/R/ti/p/@unigreen.power");
+                    ui.hyperlink_to(tl!("Source code: github.com/loobkaze-source/wordcraft"), "https://github.com/loobkaze-source/wordcraft");
                     ui.add_space(6.0);
                     ui.label(
                         egui::RichText::new(tl!(
