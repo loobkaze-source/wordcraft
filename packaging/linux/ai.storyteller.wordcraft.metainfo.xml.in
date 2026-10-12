@@ -39,7 +39,7 @@
     </screenshot>
   </screenshots>
   <branding>
-    <color type="primary" scheme_preference="light">#a7f3d0</color>
+    <color type="primary" scheme_preference="light">#34d399</color>
     <color type="primary" scheme_preference="dark">#0d1a12</color>
   </branding>
   <requires>
